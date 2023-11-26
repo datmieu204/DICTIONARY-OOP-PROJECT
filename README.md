@@ -1,7 +1,7 @@
 # Dictionary OOP Project by JAVAFX
 
 # Đại học Công Nghệ - ĐHQGHN
-* Bài tập lớn OOP lớp INT2204
+* Bài tập lớn OOP lớp INT2204 20
 
 # Items:
 1. Dictionary
